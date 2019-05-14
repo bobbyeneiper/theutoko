@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://niekishahr.thisisgambit.com/sitemap.xml
